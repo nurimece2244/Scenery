@@ -1,0 +1,15 @@
+Tree;0.1
+Building;16;0.2;0.1;Orange
+Building;8;0.15;0.1;Red
+Tree;0.5
+Building;10;0.5;0.2;Blue
+Building;10;0.5;0.4;Red
+Tree;0.3
+Building;8;0.6;0.3;Yellow
+Building;16;0.6;0.15;Blue
+Tree;0.2
+Building;15;0.8;0.05;Blue
+Tree;0.6
+Tree;0.8
+Building;15;0.9;0.1;Green
+Building;2;0.3;0.15;Blue
